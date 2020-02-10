@@ -8,3 +8,7 @@
 * {
     outline: 1px dotted black;
 }
+
+body {
+  background: url(../img/Space.png);
+}
